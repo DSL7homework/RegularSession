@@ -2,7 +2,8 @@
 ## 공지
 각 학회원님들은 과제 제출하고자 하는 세션의 폴더에 들어간 뒤, 본인의 기수 폴더에 파일 올려주시면 됩니다 :) <br>
 (e.g. Supervised Learning => 7기)
-
+<br>
+Fork 후 본인 repo에 올리고 여기로 pull request 해주세요!
 
 ## 세션 영상 및 파일 노션 링크
 ==> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/22-1-5961352a5ab8430eb922767b692c8607/)
